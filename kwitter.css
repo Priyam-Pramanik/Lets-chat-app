@@ -70,7 +70,19 @@ cursor: pointer;
   margin-right: 5%;
   font-size: 13px;
   box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+  
+
 }
+.un:hover{
+  background-color: goldenrod;
+  transition: 0.5s;
+}
+
+p{
+font-size: 35px;
+margin-top: 30px;
+}
+
 
 
 
