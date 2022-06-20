@@ -1,5 +1,5 @@
-function addUser(){
+function userAdd(){
     username = document.getElementById("name").value;
     localStorage.setItem("username", username);
-    window.location = "kwitter_room.html";    
-    }
+    window.location = "kwitter_room.html";
+}
